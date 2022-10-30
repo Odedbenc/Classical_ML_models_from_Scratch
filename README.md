@@ -4,7 +4,7 @@ In this project, I summerized some classical machine learning models I wrote fro
 
 I used different datasets to analyze the performace of the different models.
 
-The Models I wrote from scratch are: 
+The models I wrote from scratch are: 
 
 - K-means
 - KNN

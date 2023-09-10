@@ -12,3 +12,4 @@ The models I wrote from scratch are:
 - Decision trees
 - Random forest
 - ADA Boost
+- DBSCAN
